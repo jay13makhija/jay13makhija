@@ -8,7 +8,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 - 💻 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on Android, Web based Application, Azure, Algorithmic Problem.
 - ⚡️ Fun fact: I just love learning new things
-- 💬 Chat with me: [@MakhijaJay13](https://twitter.com/MakhijaJay13)
+- 💬 Chat with me: [@jay13makhija](https://twitter.com/jay13makhija)
 
 ## I love working in
 
