@@ -5,7 +5,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 **About me**
  
 - 👀 I’m interested in Software Development Engineering.
-- 💻 I’m currently learning Full Stack Web Development.
+- 💻 I’m currently learning C# and .NET Framework.
 - 💞️ I’m looking to collaborate on Android, Web based Application, Azure, Algorithmic Problem.
 - ⚡️ Fun fact: I just love learning new things
 - 💬 Chat with me: [@jay13makhija](https://twitter.com/jay13makhija)
