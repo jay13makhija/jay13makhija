@@ -5,7 +5,6 @@ I'm a self-taught passionate developer from India 🇮🇳
 **About me**
  
 - 👀 I’m interested in Software Engineering & Software Developer Engineering Roles.
-- 💻 I’m currently learning C# and .NET Framework.
 - 💞️ Fun fact: I just love learning new things
 - 💬 Chat with me: [@jay13makhija](https://twitter.com/jay13makhija)
 
