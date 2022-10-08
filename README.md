@@ -6,7 +6,7 @@ I'm a self-taught passionate developer from India 🇮🇳
  
 - 👀 I’m interested in Software Engineering & Software Developer Engineering Roles.
 - 💞️ Fun fact: I just love learning new things
-- 💬 Chat with me: [@jay13makhija](https://twitter.com/jay13makhija)
+
 
 ## I love working in
 
