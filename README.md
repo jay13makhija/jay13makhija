@@ -2,6 +2,8 @@
 
 I'm a self-taught passionate developer from India 🇮🇳
 
+[![@jay13makhija's Holopin board](https://holopin.me/jay13makhija)](https://holopin.io/@jay13makhija)
+
 **About me**
  
 - 👀 I’m interested in Software Engineering & Software Developer Engineering Roles.
