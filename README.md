@@ -1,14 +1,10 @@
-## 👋 Hi, I’m Jay Makhija.
-
-I'm a self-taught passionate developer from India 🇮🇳
-
+# 👋 Hi, I’m Jay Makhija.
 [![@jay13makhija's Holopin board](https://holopin.me/jay13makhija)](https://holopin.io/@jay13makhija)
 
+
 **About me**
- 
 - 👀 I’m interested in Software Engineering & Software Developer Engineering Roles.
 - 💞️ Fun fact: I just love learning new things
-
 
 ## I love working in
 
@@ -32,3 +28,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<br>
+
+[![](https://leetcard.jacoblin.cool/JayMakhija?ext=heatmap)](https://leetcode.com/JayMakhija)
