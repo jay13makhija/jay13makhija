@@ -31,4 +31,8 @@
 
 <br>
 
-[![](https://leetcard.jacoblin.cool/JayMakhija?ext=heatmap)](https://leetcode.com/JayMakhija) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](https://raw.githubusercontent.com/jay13makhija/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+[![](https://leetcard.jacoblin.cool/JayMakhija?ext=heatmap)](https://leetcode.com/JayMakhija)
+
+<br>
+
+![](https://raw.githubusercontent.com/jay13makhija/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
