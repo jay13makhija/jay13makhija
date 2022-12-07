@@ -1,8 +1,11 @@
-## 👋 Hi, I’m Jay Makhija.
+<img align="right" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<h1 align="left"> 👋 Hi, I’m Jay Makhija </h1>
 
-**About me**
-- 👀 I’m interested in Software Engineering & Software Developer Engineering Roles.
-- 💞️ Fun fact: I just love learning new things
+## About me
+- 👀 I’m a Software Engineer from India
+- 📫 How to reach me **jay13makhija@gmail.com**
+- 💞️ I love to learn new technologies
+
 
 ## I love working in
 
@@ -26,14 +29,15 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+## Github Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jay13makhija&show_icons=true&locale=en" alt="jay13makhija" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay13makhija&" alt="jay13makhija"/>
+
 ## **Hacktoberfest 2022**
 
 [![@jay13makhija's Holopin board](https://holopin.me/jay13makhija)](https://holopin.io/@jay13makhija)
 
-## **Leetcode**
+## **LeetCode**
 
 [![](https://leetcard.jacoblin.cool/JayMakhija?ext=heatmap)](https://leetcode.com/JayMakhija)
-
-## **Codeforces**
-
-[![](https://raw.githubusercontent.com/jay13makhija/cf-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/JayMakhija)
