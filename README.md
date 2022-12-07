@@ -33,6 +33,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jay13makhija&show_icons=true&locale=en" alt="jay13makhija" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay13makhija&" alt="jay13makhija"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay13makhija&show_icons=true&locale=en&layout=compact" alt="jay13makhija" />
 
 ## **Hacktoberfest 2022**
 
@@ -41,3 +42,5 @@
 ## **LeetCode**
 
 [![](https://leetcard.jacoblin.cool/JayMakhija?ext=heatmap)](https://leetcode.com/JayMakhija)
+
+<p></p>
