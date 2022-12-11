@@ -1,10 +1,10 @@
-<h1 align="left"> 👋 Hi, I’m Jay Makhija </h1>
+<h1 align="center"> 👋 Hi, I’m Jay Makhija </h1>
 <img align="right" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
 ## About me
 - 👀 I’m a Software Engineer from India
-- 📫 How to reach me **jay13makhija@gmail.com**
-- 💞️ I love to learn new technologies
+- 📫 You may reach me at **jay13makhija@gmail.com**
+- 💻 I love to learn new technologies
 
 
 ## I love working in
