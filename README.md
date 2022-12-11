@@ -1,5 +1,5 @@
-<img align="right" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 <h1 align="left"> 👋 Hi, I’m Jay Makhija </h1>
+<img align="right" alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
 ## About me
 - 👀 I’m a Software Engineer from India
