@@ -25,4 +25,8 @@
 
 [![](https://leetcard.jacoblin.cool/JayMakhija?ext=heatmap)](https://leetcode.com/JayMakhija)
 
+## Codeforces
+
+![](https://raw.githubusercontent.com/jay13makhija/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
 <p></p>
