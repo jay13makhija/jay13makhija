@@ -8,8 +8,8 @@
 
 
 ## I love working in
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,html,css,js)](https://skills.thijs.gg)   
-[![My Skills](https://skills.thijs.gg/icons?i=docker,git,react,nodejs,mongodb,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=cs,ts,angular,react,html,css,js)](https://skills.thijs.gg)   
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,docker,git,mongodb,mysql,c,cpp)](https://skills.thijs.gg)
 
 ## Github Stats
 
