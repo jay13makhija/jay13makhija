@@ -18,6 +18,6 @@
 
 ## Github Stats
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jay13makhija&" alt="jay13makhija"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jay13makhija&show_icons=true&locale=en" alt="jay13makhija" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jay13makhija&" width="400" alt="jay13makhija"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jay13makhija&show_icons=true&locale=en" width="400" alt="jay13makhija" />
 
