@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a **.NET Backend Developer**
 - 🌱 I have **2+ years** of hands-on experience building APIs and enterprise services
-- 🚀 Proficient in **C#**, **ASP.NET Core**, and **Azure cloud solutions**
+- 🚀 Proficient in **Go** **C#**, **ASP.NET Core**, and **Azure cloud solutions**
 - 💬 Ask me about clean architecture, RESTful APIs, cloud deployments, and data modeling
 - ⚡ Fun fact: I enjoy solving problems, both in code and in coffee ☕
 
@@ -17,6 +17,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Go-0078D4?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
