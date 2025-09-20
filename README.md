@@ -6,8 +6,8 @@
 
 ### 🧑‍💻 About Me
 
+<!-- - 🌱 I have **2+ years** of hands-on experience building APIs and enterprise services -->
 - 🔭 I’m currently working as a **.NET Backend Developer**
-- 🌱 I have **2+ years** of hands-on experience building APIs and enterprise services
 - 🚀 Proficient in **Go** **C#**, **ASP.NET Core**, and **Azure cloud solutions**
 - 💬 Ask me about clean architecture, RESTful APIs, cloud deployments, and data modeling
 - ⚡ Fun fact: I enjoy solving problems, both in code and in coffee ☕
