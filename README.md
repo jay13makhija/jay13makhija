@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-I’m a Software Engineer with **2+ years of experience** specializing in backend development using **.NET Core Web API** and **Azure Functions**.  
+I’m a Software Engineer with **2.5+ years of experience** specializing in backend development using **.NET Core Web API** and **Azure Functions**.  
 I enjoy designing clean architectures, building scalable services, and solving real-world engineering problems.
 
 - 🔭 Currently working as a **.NET Backend Engineer**
